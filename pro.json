@@ -1,14 +1,19 @@
 {
   "name": "CRYPTO STRATEGIC RESERVE",
-  "symbol": "XMTT",
-  "uri": "https://raw.githubusercontent.com/thongnq0906/ccccc/refs/heads/main/pro.json",
-  "description": "CSR",
+  "symbol": "CSR",
   "image": "https://raw.githubusercontent.com/thongnq0906/ccccc/refs/heads/main/logo.jpg",
-  "external_url": "https://csrerc.xyz",
+  "uri": "https://raw.githubusercontent.com/thongnq0906/ccccc/refs/heads/main/pro.json",
+  "description": "CRYPTO STRATEGIC RESERVE",
   "attributes": [
     {
       "trait_type": "Telegram",
       "value": "https://csrerc.xyz/"
     }
   ]
+  "external_url": "https://csrerc.xyz",
+  "extensions": {
+    "website": "https://csrerc.xyz",
+    "twitter": "https://x.com/MyToken2022",
+    "telegram": "https://csrerc.xyz/"
+  }
 }
