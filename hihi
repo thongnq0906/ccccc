@@ -1,0 +1,14 @@
+{
+  "name": "XA MAU TUAN TU",
+  "symbol": "XMTT",
+  "uri": "https://raw.githubusercontent.com/thongnq0906/ccccc/refs/heads/main/token.json",
+  "description": "Rất chi xà mâu",
+  "image": "https://raw.githubusercontent.com/thongnq0906/ccccc/refs/heads/main/z4339965665925_1caa9bd3784edcc409fac2ca00e9d4bb.jpg",
+  "external_url": "https://website-cua-ban.com",
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/your_channel"
+    }
+  ]
+}
