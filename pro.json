@@ -1,14 +1,14 @@
 {
-  "name": "XA MAU TUAN TU",
+  "name": "CRYPTO STRATEGIC RESERVE",
   "symbol": "XMTT",
   "uri": "https://raw.githubusercontent.com/thongnq0906/ccccc/refs/heads/main/pro.json",
-  "description": "Rất chi xà mâu",
-  "image": "https://ipfs.io/ipfs/Qmb5W92Jt3iNUnr5xXmZygXBJ1HDFDSk7uh8kV5by3Nz4F",
-  "external_url": "https://website-cua-ban.com",
+  "description": "CSR",
+  "image": "https://raw.githubusercontent.com/thongnq0906/ccccc/refs/heads/main/logo.jpg",
+  "external_url": "https://csrerc.xyz",
   "attributes": [
     {
       "trait_type": "Telegram",
-      "value": "https://t.me/your_channel"
+      "value": "https://csrerc.xyz/"
     }
   ]
 }
